@@ -40,4 +40,3 @@
   #### 📬 7. Contact Us
 
   For any questions or concerns regarding this privacy policy, please contact us at: support@2zalab.com.
-  """
