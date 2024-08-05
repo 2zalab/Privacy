@@ -38,7 +38,7 @@ Nous ne partageons **aucune** de vos données personnelles avec des tiers. Toute
 
 ## 🗂 Contact
 
-Si vous avez des questions concernant cette politique de confidentialité, veuillez nous contacter à l'adresse email suivante : [support@grandirdanslafoi.com](mailto:support@grandirdanslafoi.com)
+Si vous avez des questions concernant cette politique de confidentialité, veuillez nous contacter à l'adresse email suivante : [support@2zalab.com](mailto:support@2zalab.com)
 
 ---
 
@@ -46,5 +46,4 @@ Merci d'utiliser **Grandir dans la Foi**. Nous nous engageons à protéger vos i
 
 ---
 
-*Dernière mise à jour : [Date]*
 
